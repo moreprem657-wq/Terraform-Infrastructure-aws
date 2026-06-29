@@ -114,17 +114,17 @@ After successful deployment:
 ✅ Public Subnet
 (image2.png) 
 ✅ Internet Gateway
-![alt text](image3.png)
+![alt text](C:\prem_work space_project\terraform_workproject\images\image3.png)
 ✅ Route Table
-![alt text](image4.png)
+![alt text](C:\prem_work space_project\terraform_workproject\images\image4.png)
 ✅ Route Table Association
-![alt text](image5.png) 
+![alt text](C:\prem_work space_project\terraform_workproject\images\image5.png)
 ✅ Security Group
-![alt text](image6.png)
+![alt text](C:\prem_work space_project\terraform_workproject\images\image6.png)
 ✅ EC2 Instance
-![alt text](image7.png)
+![alt text](C:\prem_work space_project\terraform_workproject\images\image7.png)
 ✅ Amazon S3 Bucket 
-![alt text](image8.png)
+![alt text](C:\prem_work space_project\terraform_workproject\images\image8.png)
 
 ## 👨‍💻 Author
 
@@ -138,3 +138,4 @@ Docker
 Kubernetes
 Jenkins
 Git & GitHubgit remote -v
+
