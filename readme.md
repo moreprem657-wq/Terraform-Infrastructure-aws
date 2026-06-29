@@ -110,6 +110,8 @@ terraform destroy
 After successful deployment:
 
 ✅ VPC
+ 
+
 ![alt text](image.png) 
 ✅ Public Subnet
 ![alt text](image.png) 
