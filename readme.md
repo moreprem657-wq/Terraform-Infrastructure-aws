@@ -110,21 +110,21 @@ terraform destroy
 After successful deployment:
 
 ✅ VPC
-![alt text](image.png) 
+![alt text](image1.png) 
 ✅ Public Subnet
-![alt text](image.png) 
+![alt text](image2.png) 
 ✅ Internet Gateway
-![alt text](image.png)
+![alt text](image3.png)
 ✅ Route Table
-![alt text](image.png)
+![alt text](image4.png)
 ✅ Route Table Association
-![alt text](image.png) 
+![alt text](image5.png) 
 ✅ Security Group
-![alt text](image.png)
+![alt text](image6.png)
 ✅ EC2 Instance
-![alt text](image.png)
+![alt text](image7.png)
 ✅ Amazon S3 Bucket 
-![alt text](image.png)
+![alt text](image8.png)
 
 ## 👨‍💻 Author
 
