@@ -110,9 +110,9 @@ terraform destroy
 After successful deployment:
 
 ✅ VPC
-![alt text](image1.png) 
+(image1.png) 
 ✅ Public Subnet
-![alt text](image2.png) 
+(image2.png) 
 ✅ Internet Gateway
 ![alt text](image3.png)
 ✅ Route Table
