@@ -110,7 +110,7 @@ terraform destroy
 After successful deployment:
 
 ✅ VPC
-(image1.png) 
+"C:\prem_work space_project\terraform_workproject\images\image1.png"
 ✅ Public Subnet
 (image2.png) 
 ✅ Internet Gateway
