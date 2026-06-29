@@ -103,29 +103,44 @@ bucket_name = prem-terraform-project
 
 To avoid unnecessary AWS charges:
 
-terraform destroy
+terraform destroy 
 
-## 📸 Expected AWS Resources
+
+## 📷 Expected AWS Resources
 
 After successful deployment:
 
-✅ VPC
+- ✅ VPC
 
-![alt text]("C:\prem_work space_project\terraform_workproject\images\image1.png")
-✅ Public Subnet
-(image2.png) 
-✅ Internet Gateway
-![alt text]("C:\prem_work space_project\terraform_workproject\images\image3.png")
-✅ Route Table
-![alt text]("C:\prem_work space_project\terraform_workproject\images\image4.png")
-✅ Route Table Association
-![alt text]("C:\prem_work space_project\terraform_workproject\images\image5.png")
-✅ Security Group
-![alt text]("C:\prem_work space_project\terraform_workproject\images\image6.png")
-✅ EC2 Instance
-![alt text]("C:\prem_work space_project\terraform_workproject\images\image7.png")
-✅ Amazon S3 Bucket 
-![alt text]("C:\prem_work space_project\terraform_workproject\images\image8.png")
+  ![VPC](images/image1.png)
+
+- ✅ Public Subnet
+
+  ![Public Subnet](images/image2.png)
+
+- ✅ Internet Gateway
+
+  ![Internet Gateway](images/image3.png)
+
+- ✅ Route Table
+
+  ![Route Table](images/image4.png)
+
+- ✅ Route Table Association
+
+  ![Route Table Association](images/image5.png)
+
+- ✅ Security Group
+
+  ![Security Group](images/image6.png)
+
+- ✅ EC2 Instance
+
+  ![EC2 Instance](images/image7.png)
+
+- ✅ Amazon S3 Bucket
+
+ ![S3 Bucket](images/image8.png)
 
 ## 👨‍💻 Author
 
